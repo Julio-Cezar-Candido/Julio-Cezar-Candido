@@ -24,6 +24,6 @@
   <a href = "mailto:jccds.agro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCUUuRzYjWqmGaLOWrfnwtUg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Julio-Cezar-Candido/Julio-Cezar-Candido/blob/output/github-contribution-grid-snake.svg)
  
 </div>
